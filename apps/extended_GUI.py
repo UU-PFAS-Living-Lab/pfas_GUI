@@ -1,6 +1,10 @@
 # /// script
+# requires-python = ">=3.12"
 # dependencies = [
-#     "marimo>=0.25.2",
+#     "marimo",
+#     "pfas",
+#     "matplotlib",
+#     "numpy",
 # ]
 # ///
 import marimo
